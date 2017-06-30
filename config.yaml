@@ -1,0 +1,44 @@
+baseURL: "http://beetlegoesplaces.com/"
+languageCode: "en-us"
+title: "Beetle Goes Places"
+theme: "hugo-future-imperfect"
+paginate: 3
+
+params:
+  navbarTitle: "Beetle Goes Places"
+  intro:
+    header: "Beetle Goes Places"
+    paragraph: "The life is all about OPPORTUNITIES. It is up to you to take it or not.
+    I always dreamed of owning a VW Beetle and we got the OPPORTUNITY to buy one for a reasonable price while living in Spain.
+    We are taking that OPPORTUNITY and we will be traveling as much as we can on my new Beetle.
+    This is a platform for us to be able to share our travel stories <i class='fa fa-hand-peace-o'></i>"
+    about: "I was so lucky to get my dream car as a birthday present 2017 from my boyfriend.
+    We want to share our travel stories on that beautiful car. This is a 1971 model of VW Beetle 1302-S, a Super Beetle."
+    # Social media buttons that appear on the sidebar
+  socialAppearAtTop: true
+  socialAppearAtBottom: true
+  viewMorePostLink: "/blog/"
+
+# Navigation bar
+menu:
+  main:
+    -
+      name: "Blog"
+      url: "/blog"
+      identifier: "fa fa-newspaper-o"
+      weight: 1
+    -
+      name: "Categories"
+      url: "/categories"
+      weight: 2
+
+    -
+      name: "About"
+      url: "/about"
+      weight: 3
+
+# Social media
+social:
+  email: "beetlegoesplaces@gmail.com"
+  instagram: "beetlegoesplaces"
+  twitter: "beetlegoesplcs"

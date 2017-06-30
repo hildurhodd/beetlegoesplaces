@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo --theme=hugo-theme-bleak --buildDrafts
+hugo --theme=hexo-theme-tranquilpeak --buildDrafts
 
 # Go To Public folder
 cd public
