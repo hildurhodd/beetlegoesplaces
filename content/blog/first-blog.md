@@ -3,7 +3,6 @@ author: Hodd
 title: The day it all began
 description: On the 29th of June 2017 the Beetle story begins
 date: 2017-06-29
-draft: true
 type: post
 featured: tarragonaBeetleFront1.jpg
 featuredpath: /img
