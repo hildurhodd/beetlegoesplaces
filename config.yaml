@@ -27,18 +27,20 @@ menu:
       url: "/blog"
       identifier: "fa fa-newspaper-o"
       weight: 1
-    -
-      name: "Categories"
-      url: "/categories"
-      weight: 2
-
-    -
-      name: "About"
-      url: "/about"
-      weight: 3
+#    -
+#      name: "Categories"
+#      url: "/categories"
+#      weight: 2
+#
+#    -
+#      name: "About"
+#      url: "/about"
+#      weight: 3
 
 # Social media
 social:
-  email: "beetlegoesplaces@gmail.com"
-  instagram: "beetlegoesplaces"
-  twitter: "beetlegoesplcs"
+  email: beetlegoesplaces@gmail.com
+  instagram: beetlegoesplaces
+  twitter: beetlegoesplcs
+  pinterest: beetlegoesplaces
+  tumblr: beetlegoesplaces
