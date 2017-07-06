@@ -14,6 +14,12 @@ params:
     This is a platform for us to be able to share our travel stories <i class='fa fa-hand-peace-o'></i>"
     about: "I was so lucky to get my dream car as a birthday present 2017 from my boyfriend.
     We want to share our travel stories on that beautiful car. This is a 1971 model of VW Beetle 1302-S, a Super Beetle."
+    pic:
+      src: "/img/main/logo.png"
+      circle: false
+      imperfect: true
+      width: ""
+      alt: "Beetle Goes Places"
     # Social media buttons that appear on the sidebar
   socialAppearAtTop: true
   socialAppearAtBottom: true
