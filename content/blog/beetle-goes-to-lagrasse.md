@@ -6,7 +6,6 @@ date: 2017-08-21
 type: post
 featured: beetle-goes-to-lagrasse.png
 featuredpath: /img
-draft: true
 ---
 
 We were recommended by the owners of the bed and breakfast we stayed at in Olonzac to visit a village named Lagrasse. This village is part of the [Les Plus Beaux Villages de France](https://en.wikipedia.org/wiki/Les_Plus_Beaux_Villages_de_France) association, which means "The most beautiful village of France" and was really worth the visit.
