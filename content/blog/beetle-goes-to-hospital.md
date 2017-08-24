@@ -14,7 +14,7 @@ I have to tell you about a parking garage in Sanitas Hospital Cima. Each time we
 
 To go to the hospital is over an hour trip with the underground system so to be able to drive to and from the hospital saved us a lot of time and we were able to enjoy a much better view:
 
-![alt text](/img/homeFromHospital.jpg "Driving home from the hospital")
+![On our way home](/img/beetle-goes-to-hospital/homeFromHospital.jpg "Driving home from the hospital")
 
 Next road trip will be to Olonzac, France. We have booked a hotel and we will be staying there for four days eating cheeses and drinking wine (and taking tons of pictures to share with you all) and hopefully we will also be able to visit towns nearby as well.
 
