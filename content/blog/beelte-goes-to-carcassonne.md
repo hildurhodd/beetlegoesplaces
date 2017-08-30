@@ -6,7 +6,6 @@ date: 2017-08-23
 type: post
 featured: beetle-goes-to-carcassonne.png
 featuredpath: /img
-draft: true
 ---
 
 Carcassonne is a beautiful fortified town in south of France. The medieval fortress was added to UNESCO list of World Heritage Sites in 1997. It is now probably the most visited tourist attraction in south of France and probably also one of the top tourist attractions in the whole of France out side of Paris. The tourism is the main income stream in Carcassonne along with manufacture and wine making.
