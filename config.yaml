@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Beetle Goes Places"
 theme: "hugo-future-imperfect"
 paginate: 3
+enableEmoji: true
 
 params:
   navbarTitle: "Beetle Goes Places"
@@ -50,3 +51,4 @@ social:
   twitter: beetlegoesplcs
   pinterest: beetlegoesplaces
   tumblr: beetlegoesplaces
+  facebook: beetlegoesplaces
