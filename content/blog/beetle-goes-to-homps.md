@@ -6,7 +6,6 @@ date: 2017-09-04
 type: post
 featured: beetle-goes-to-homps.png
 featuredpath: /img
-draft: true
 ---
 
 We talked to our hosts in Sainte Helene about our itinerary and they recommended a detour to Homps to see the Canal du Midi. Seeing that Homps is only 5 minute drive from Olonzac, it made perfect sense to take the detour to see it.
