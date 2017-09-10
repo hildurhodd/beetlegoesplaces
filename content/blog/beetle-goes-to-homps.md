@@ -2,7 +2,7 @@
 author: Hodd
 title: Beetle Goes To Homps
 description: Checking out the famous Canal du Midi in Homps.
-date: 2017-09-04
+date: 2017-09-10
 type: post
 featured: beetle-goes-to-homps.png
 featuredpath: /img
@@ -53,4 +53,4 @@ This village is really small but has a lot of history.
 
 Next up: Minerve, France.
 
-Until next time :smile
+Until next time :smile:
