@@ -5,7 +5,7 @@ description: On our way home from France we stoped in a town named Narbonne.
 date: 2017-10-22
 type: post
 featured: beetle-goes-to-narbonne.png
-featuredpath: /img
+featuredpath: /img/road-trips/france-2017
 ---
 
 Narbonne is a town in south of France with a population of around 52.000. This is a charming town with many historical buildings and sights.
@@ -16,14 +16,14 @@ The Canal de la Robine runs right through the town and the city does an excellen
   "6u" "river2.png" "Canal de la Robine"
   "6u" "river3.png" "Canal de la Robine"
   "6u" "house.png" "Canal de la Robine"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 We walked around the Archbishops garden, saw the Archbishops Cloister and the Archbishops Palace.
 {{<img-fit
   "6u" "archbishops-cloister.png" "Archbishops Garden and Cloister"
   "6u" "archbishops-garden.png" "Archbishops Garden and Cloister"
   "12u" "archbishops-palace.png" "Archbishops Palace"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 We went into the Saint-Just-et-Saint-Pasteur Cathedral. It is a Roman Catholic church located in the heart of Narbonne. The construction started 1272 and the choir was finished 1332. The rest of the building was never completed and the reasons are many but the most important is that it would have required demolishing the city wall. The 14th century brought the plague and the host of reasons for retaining the wall.
 {{<img-fit
@@ -34,18 +34,18 @@ We went into the Saint-Just-et-Saint-Pasteur Cathedral. It is a Roman Catholic c
   "6u" "cathedral2h.png" "The Cathedral"
   "6u" "cathedral4v.png" "The Cathedral"
   "6u" "cathedral5v.png" "The Cathedral"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 Right across the street in front of the Cathedral is the Old Chapel of the Blue Penitents. An 18th century chapel in the barque style restored in 1995. Now it is used as a modern art gallery.
 {{<img-fit
   "6u" "old-chapel1.png" "Blue Penitents Old Chapel"
   "6u" "old-chapel2.png" "Blue Penitents Old Chapel"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 Via Domitia, Town Hall square, is an evidence of the ancient town twenty-one centuries ago. Via Domitia was a Roman road that linked Italy and Spain. This was uncovered and restored only in 1997 and is in front of the Archbishops Palace.
 {{<img-fit
   "12u" "via-domitia.png" "Via Domitia, Town Hall square"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 It was nice walking around the town and looking around. Beautiful buildings everywhere, narrow cobblestone streets with restaurants everywhere.
 {{<img-fit
@@ -57,7 +57,7 @@ It was nice walking around the town and looking around. Beautiful buildings ever
   "6u" "street-view6.png" "Around Narbonne"
   "6u" "street-view7.png" "Around Narbonne"
   "6u" "street-view8.png" "Around Narbonne"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 We had lunch at a creperie named La Rencontre. The crepes were excellent.
 {{<img-fit
@@ -65,7 +65,7 @@ We had lunch at a creperie named La Rencontre. The crepes were excellent.
   "6u" "lunch-menu.png" "La Rencontre"
   "6u" "crepe1.png" "Crepe"
   "6u" "crepe2.png" "Crepe"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-narbonne" >}}
 
 Next up: Beetle goes through ITV.
 

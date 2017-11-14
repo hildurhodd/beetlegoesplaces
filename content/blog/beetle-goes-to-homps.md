@@ -5,7 +5,7 @@ description: Checking out the famous Canal du Midi in Homps.
 date: 2017-09-10
 type: post
 featured: beetle-goes-to-homps.png
-featuredpath: /img
+featuredpath: /img/road-trips/france-2017
 ---
 
 We talked to our hosts in Sainte Helene about our itinerary and they recommended a detour to Homps to see the Canal du Midi. Seeing that Homps is only 5 minute drive from Olonzac, it made perfect sense to take the detour to see it.
@@ -26,7 +26,7 @@ The canal has the worlds first navigable tunnel, The Malpas tunnel. It is 165 me
   "6u" "canal-barrel.png" "Canal di Midi"
   "6u" "canal-du-midi-v.png" "Canal du Midi"
   "12u" "homps2.png" "Homps bridge"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-homps" >}}
 
 As always, we took a look at the village's church. This is a Roman church named St. Etienne.
 
@@ -34,13 +34,13 @@ As always, we took a look at the village's church. This is a Roman church named 
   "6u" "church.png" "The church"
   "6u" "church-front.png" "The church"
   "12u" "church-back.png" "Aude"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-homps" >}}
 
 Another historical building is a commandery. The Homps commandery in now only a small part of what it has once been. It has been progressively been demolished over the centuries. There is only one wing left which is now divided into flats and a tower.
 
 {{<img-fit
   "12u" "hospitaliers.png" "The church"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-homps" >}}
 
 This village is really small but has a lot of history.
 
@@ -49,7 +49,7 @@ This village is really small but has a lot of history.
   "6u" "beetle-in-homps.png" "Beetle in Homps"
   "6u" "restaurant.png" "Homps"
   "6u" "gate.png" "Homps"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-homps" >}}
 
 Next up: Minerve, France.
 

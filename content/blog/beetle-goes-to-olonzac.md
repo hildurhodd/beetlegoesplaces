@@ -5,7 +5,7 @@ description: The beetle went to France for the first time and we started in Olon
 date: 2017-08-17
 type: post
 featured: beetle-goes-to-olonzac.jpg
-featuredpath: /img
+featuredpath: /img/road-trips/france-2017
 ---
 
 As I mentioned in a previous post, we went on the Beetle to a village in South of France called Olonzac. It is stated to be the capital of Minervoise. The population is around 1600.
@@ -19,12 +19,12 @@ As I mentioned in a previous post, we went on the Beetle to a village in South o
   "4u" "cafe-plana.png" ""
   "4u" "tree.png" ""
   "4u" "gate.png" ""
-    "title" >}}
+    "/img/road-trips/france-2017/beetle-goes-to-olonzac" >}}
 
 There are vineyards all around the village and vinery on almost all corners.
 
-![Vineyard](/img/beetle-goes-to-olonzac/vine.png "")
-![Vineyard](/img/beetle-goes-to-olonzac/vinyard.png "")
+![Vineyard](/img/road-trips/france-2017/beetle-goes-to-olonzac/vine.png "")
+![Vineyard](/img/road-trips/france-2017/beetle-goes-to-olonzac/vinyard.png "")
 
 There is a peaceful park on the east part of the village.
 
@@ -35,14 +35,14 @@ There is a peaceful park on the east part of the village.
   "6u" "park.png" "Olonzac park"
   "6u" "house-in-park.png" "Tower in the park"
   "6u" "greehouse.png" "Greenhouse in the park"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-olonzac" >}}
 
 In the middle of the village there is a church called Église Notre-Dame de l'Assomption.
 
 {{< img-fit
   "6u" "notre-dame.png" "Olonzac church"
   "6u" "notre-dam-tower.png" "Olonzac church"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-olonzac" >}}
 
 
 We went to dinner at a restaurant that was recommended to us called O Portail O. The menu is a fusion of Belgian, French and Libyan cuisines. The place was really nice, excellent service and the food is so delicious, the falafel is to die for.
@@ -52,7 +52,7 @@ We went to dinner at a restaurant that was recommended to us called O Portail O.
   "6u" "drinks.png" "Drinks"
   "6u" "falafel.png" "Falafel"
   "6u" "kofta.png" "Kofta"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-olonzac" >}}
 
 We were so lucky to be able to see the famous Olonzac market where local product from the area is sold. There was so much to see and we took so many pictures. I am having a hard time choosing so forgive me the photo mania :)
 
@@ -93,7 +93,7 @@ We were so lucky to be able to see the famous Olonzac market where local product
   "4u" "market30.png" ""
   "4u" "market34.png" ""
   "4u" "market37.png" ""
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-olonzac" >}}
 
   Next up: Lagrasse, France.
 

@@ -5,7 +5,7 @@ description: Minerve is a spectacular village in south of France that is absolut
 date: 2017-10-03
 type: post
 featured: beetle-goes-to-minerve.png
-featuredpath: /img
+featuredpath: /img/road-trips/france-2017
 ---
 
 Minerve is one of the most charming village that I have visited. It's history goes back to 46 BC where Minerve was a camp for the 10th Roman Legion.
@@ -22,14 +22,14 @@ The crusaders gave the cahtars no other choice but to change religion. But the C
   "12u" "minerve-bridge.png" "Minerve bridge"
   "6u" "view.png" "Catapult"
   "6u" "view2.png" "Gate"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
 Inside the village there is a church named Saint-Etienne that was built in the 11th and 12th century.
 
 {{<img-fit
   "6u" "cross.png" "Cross"
   "6u" "church.png" "Church"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
 We are so used to the Spanish lunch time that we kind of missed the lunch traffic and were forced to eat at the only place that did not shut the door on us.
 
@@ -37,13 +37,13 @@ We are so used to the Spanish lunch time that we kind of missed the lunch traffi
   "6u" "ommelet.png" "Omelet"
   "6u" "mix.png" "Mixed meat"
   "12u" "drink.png" "Drink with a view"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
 In a short walking distance there is a cave where the river that surrounded Minerve used to run through.
 {{<img-fit
   "6u" "cave.png" "Cave"
   "6u" "cave2.png" "Cave"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
 We loved walking around and enjoying the scenery.
 {{<img-fit
@@ -59,13 +59,13 @@ We loved walking around and enjoying the scenery.
   "6u" "minerve4h.png" "Minerve"
   "6u" "gate.png" "Minerve"
   "6u" "valley.png" "Minerve"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
 And the Beetle looked absolutely fantastic in the medieval surroundings.
 {{<img-fit
   "6u" "beetle-in-minerve.png" "Beetle in Minerve"
   "6u" "beetle-in-minerve2.png" "Beetle in Minerve"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
 On our way back we stoped at a vinery named Chateou Cabezac. It has a friendly environment and staff where we were able to taste their fantastic vines for no charge. We are particularly fond of one of their rosey bottle. We ended up filling the trunk/bonnet of the beetle with red, white and rosey bottles.
 
@@ -73,7 +73,7 @@ On our way back we stoped at a vinery named Chateou Cabezac. It has a friendly e
   "6u" "chateou-cabezac.png" "Chateou Cabezac"
   "6u" "chateou-cabezac-outdoor-area.png" "Chateou Cabezac outdoor area"
   "12u" "beetle-full-of-goodies.png" "Beetle full of goodies"
-  "title" >}}
+  "/img/road-trips/france-2017/beetle-goes-to-minerve" >}}
 
   Next up: Narbonne, France.
 

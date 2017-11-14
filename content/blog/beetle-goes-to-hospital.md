@@ -5,7 +5,7 @@ description: The beetle has been a life/time saver.
 date: 2017-07-10
 type: post
 featured: hospitalBeetle.jpg
-featuredpath: /img
+featuredpath: /img/beetle-goes-to-hospital
 ---
 
 The reason for us not traveling lately is that I have been sick. The beetle has truly been a Super beetle, getting me to and from the hospital for many days.
