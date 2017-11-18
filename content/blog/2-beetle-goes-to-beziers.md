@@ -2,7 +2,7 @@
 author: Hodd
 title: Beetle Goes To Béziers, France
 description: Road-trip to Iceland, day one stop two.
-date: 2017-11-14
+date: 2017-11-18
 type: post
 featured: beetle-goes-to-beziers.png
 featuredpath: /img/road-trips/iceland-2017/day-1/beetle-goes-to-beziers

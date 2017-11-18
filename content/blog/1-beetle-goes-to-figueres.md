@@ -2,11 +2,10 @@
 author: Hodd
 title: Beetle Goes To Figueres, Spain
 description: Road-trip to Iceland, day one stop one.
-date: 2017-11-14
+date: 2017-11-17
 type: post
 featured: beetle-goes-to-figueres.png
 featuredpath: /img/road-trips/iceland-2017/day-1/beetle-goes-to-figueres
-draft: true
 ---
 
 Finally the journey that we have been waiting for starts. We have stuffed the car with our belongings in Barcelona and headed towards our home country, Iceland.
@@ -35,9 +34,9 @@ Fugueres is a town in Catalonia, Spain, and is the birthplace of the artist Salv
   "6u" "dali2.png" "In front of our house"
   "/img/road-trips/iceland-2017/day-1/beetle-goes-to-figueres" >}}
 
-I want my museum to be a single block, a labyrinth, a great surrealist object. It will be totally theatrical museum. The people who come to see it will leave with the sensation of having had a theatrical dream.
+> I want my museum to be a single block, a labyrinth, a great surrealist object. It will be totally theatrical museum. The people who come to see it will leave with the sensation of having had a theatrical dream.
 
-— Salvador Dalí
+>— Salvador Dalí
 
 We only stoped in Figueres to stretch, buy snack for the road and take pictures of the beetle by the beautiful Dalí museum.
 ![Food](/img/road-trips/iceland-2017/day-1/beetle-goes-to-figueres/food.png "Food")
