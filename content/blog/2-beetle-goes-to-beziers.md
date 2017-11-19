@@ -6,7 +6,6 @@ date: 2017-11-18
 type: post
 featured: beetle-goes-to-beziers.png
 featuredpath: /img/road-trips/iceland-2017/day-1/beetle-goes-to-beziers
-draft: true
 ---
 
 After a short stop in Figueres, Spain, we headed to France. We had a short break and fuelled up just outside of a town named Béziers.
