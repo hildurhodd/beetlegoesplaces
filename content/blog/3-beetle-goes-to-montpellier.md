@@ -4,12 +4,11 @@ title: Beetle Goes To Montpellier, France
 description: Road-trip to Iceland, day one stop three.
 date: 2017-11-19
 type: post
-featured: beetle-goes-to-montpellier.jpg
+featured: beetle-goes-to-montpellier.png
 featuredpath: /img/road-trips/iceland-2017/day-1/beetle-goes-to-montpellier
-draft: true
 ---
 
-Well well well, the third stop of the first day started well, we headed of from Béziers to Montpellier. On our way we manage to find an interesting bed and breakfast that has really good reviews and ranks really high. We parked in front of the bead and breakfast when we arrived and the owner greeted us and gave us helpful tips regarding what restaurants we could consider as well a short scenic route around the city centre. So we headed downtown for a walk.
+Well well well, the third stop of the first day started well, we headed of from Béziers to Montpellier. It was 78 km and it took us 1 hour and 17 minutes to get there. On our way we manage to find an interesting bed and breakfast that has really good reviews and ranks really high. We parked in front of the bead and breakfast when we arrived and the owner greeted us and gave us helpful tips regarding what restaurants we could consider as well a short scenic route around the city centre. So we headed downtown for a walk.
 
 {{< img-fit
   "6u" "parked.png" "Parking"
@@ -61,4 +60,18 @@ We were his first Icelanders to stay at his B&B so we got the honour to place a 
 
 All of our excitement about the journey ahead was swept away from us when we went downstairs with our luggage where we saw that someone had broken into the beetle and stolen what we had locked in the car. Half an hour before the owner of the B&B had walked passed the car from the bakery and the car was fine.
 
-We has a lot of things with us because we are moving back to Iceland. The night before we decided to not take everything out of the car because it was a lot of things. We left a giant suitcase with almost all of our wardrobe, one smaller bag with all of my outdoor cloths and a robot under the seat. It was all taken and the rest scattered around the car along with a lot of peases of glass from the window.
+We had a lot of things with us because we are moving back to Iceland. The night before we decided to not take everything out of the car because it was a lot of things. We left a giant suitcase with almost all of our wardrobe, one smaller bag with all of my outdoor clothes and a robot vacuum under the seat. It was all taken and the rest scattered around the car along with a lot of pieces of glass from the window.
+
+{{< img-fit
+  "6u" "robbery1.png" "The robbery"
+  "6u" "robbery2.png" "The robbery"
+  "6u" "robbery3.png" "The robbery"
+  "6u" "robbery5.png" "The robbery"
+  "12u" "robbery4.png" "The robbery"
+  "/img/road-trips/iceland-2017/day-1/beetle-goes-to-montpellier" >}}
+
+First they tried to force the door open with a crow bar and then broke the window. There is a lot of damage to the paintwork after the crowbar and a bent in the door as well. The paint was scratched of all the way to the metal of the car.
+
+This has thought us to never leave anything in the car, no matter how un-important it is. When we left the suitcase we thought "There is nothing in it that is worth something" but we did not think far enough. Even though these things did not matter that much to us the break in has cost us much more trouble and worries that we ever imagined.
+
+Until next time.
